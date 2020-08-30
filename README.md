@@ -77,10 +77,11 @@ Para poder realizar este desafío, se deben cumplir con los siguientes requisito
 1. Cree el servicio [Watson Studio (Cloud Pak for Data as a Service)](https://cloud.ibm.com/catalog/services/watson-studio)  en IBM Cloud. (Si ya lo creo en el desafío 2 no es necesario volverlo a crear)
 2. Cree el servicio [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) (Si ya lo creo en el desafío 2 no es necesario volverlo a crear)
 3. [Crear un nuevo proyecto vacío en Watson Studio](https://dataplatform.cloud.ibm.com/projects/new-project?context=cpdaas).
-4. Importar el notebook usando el archivo `anahuac.ipynb`
-5. Leer y ejecutar las instrucciones contenidas en el Notebook `anahuac.ipynb`.
-6. Guarde el csv como `results.csv` con sus predicciones y el notebook que desarrolló `anahuac.ipynb`.
-7. Envíe su solicitud a [https://anahuac.maratona.dev/](https://anahuac.maratona.dev/)
+4. Crear el token de acceso al proyecto
+5. Importar el notebook usando el archivo `anahuac.ipynb`
+6. Leer y ejecutar las instrucciones contenidas en el Notebook `anahuac.ipynb`.
+7. Guarde el csv como `results.csv` con sus predicciones y el notebook que desarrolló `anahuac.ipynb`.
+8. Envíe su solicitud a [https://anahuac.maratona.dev/](https://anahuac.maratona.dev/)
 
 ### 4.3. Desarrollo
 
